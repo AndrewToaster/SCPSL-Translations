@@ -40,8 +40,8 @@ SCP:SL Vedoucí zajištění kvality
 SCP:SL Twitch odběratel
 SCP:SL Audio manažer
 Northwood Koordinátor zpětné vazby
-Northwood Vedouví ověření
-SCP:SL Official Server Supervisor
+Northwood Vedoucí ověření
+SCP:SL Vedoucí oficiálního serveru
 Northwood Vedoucí zpětné vazby
 Northwood Manažer ověření
 Northwood Bot manažer
@@ -49,6 +49,6 @@ Northwood Manažer překládání
 SCP:SL Manažer herního designu
 SCP:SL Animátor
 Northwood Ředitel pro vztahy s veřejností
-SCP:SL Helper
+SCP:SL Pomocník
 SCP:SL Hlasový herec
 SCP:SL Investor nadace
